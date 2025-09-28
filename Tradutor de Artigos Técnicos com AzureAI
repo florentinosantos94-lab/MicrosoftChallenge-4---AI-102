@@ -1,0 +1,22 @@
+# Desenvolvimento de Solução de Tradução Automática de Artigos Técnicos com AzureAI
+
+## Objetivo
+Desenvolver uma solução de tradução automática de artigos técnicos utilizando o AzureAI. O foco é garantir precisão terminológica e contexto específico do domínio técnico, facilitando o acesso a conteúdos especializados em diferentes idiomas.
+
+## Passos Sugeridos
+1. **Configuração do AzureAI:**
+   - Utilize os serviços de tradução automática fornecidos pelo AzureAI para implementar a solução.
+
+2. **Treinamento do Modelo:**
+   - Treine o modelo de tradução considerando o contexto técnico dos artigos para garantir precisão nas traduções.
+
+3. **Validação da Precisão:**
+   - Realize testes para validar a precisão terminológica e contextual das traduções realizadas.
+
+4. **Integração com Artigos Técnicos:**
+   - Integre a solução com artigos técnicos para realizar as traduções de forma automática e eficiente.
+
+5. **Implementação de Interface (Opcional):**
+   - Caso necessário, implemente uma interface para facilitar o acesso e utilização da solução pelos usuários.
+
+Ao seguir esses passos, você estará desenvolvendo uma solução de tradução automática de artigos técnicos com AzureAI, proporcionando uma maneira eficaz de acessar conteúdos especializados em diferentes idiomas. Se precisar de mais orientações durante o processo, estou à disposição para ajudar.
