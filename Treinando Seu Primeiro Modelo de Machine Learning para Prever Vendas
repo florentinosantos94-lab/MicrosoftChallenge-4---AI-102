@@ -1,0 +1,28 @@
+# Desenvolvimento de Modelo de Regressão Preditiva para Vendas de Sorvete
+
+## Objetivo do Projeto
+Desenvolver um modelo de regressão preditiva para prever as vendas de sorvete com base na temperatura do dia. O projeto visa treinar um modelo de Machine Learning, registrar e gerenciar o modelo usando o MLflow, implementar previsões em tempo real em um ambiente de cloud computing e criar um pipeline estruturado para garantir reprodutibilidade.
+
+## Passos Sugeridos
+1. **Coleta de Dados:**
+   - Coletar dados históricos de vendas de sorvete e temperaturas diárias para construir o conjunto de dados.
+
+2. **Análise Exploratória de Dados:**
+   - Realizar análises estatísticas e visualizações para entender a relação entre as vendas de sorvete e a temperatura.
+
+3. **Preparação de Dados:**
+   - Pré-processar os dados, tratar valores ausentes, normalizar variáveis, e dividir em conjuntos de treino e teste.
+
+4. **Treinamento do Modelo:**
+   - Utilizar um algoritmo de regressão, como Regressão Linear ou Árvores de Decisão, para treinar o modelo.
+
+5. **Registro do Modelo com MLflow:**
+   - Registrar o modelo treinado utilizando o MLflow para gerenciar e acompanhar experimentos.
+
+6. **Implementação em Cloud Computing:**
+   - Implementar o modelo treinado em um ambiente de cloud computing para realizar previsões em tempo real.
+
+7. **Criação de Pipeline de Treinamento:**
+   - Criar um pipeline estruturado para treinar e testar o modelo, assegurando a reprodutibilidade dos experimentos.
+
+Ao seguir esses passos, você estará desenvolvendo um modelo de regressão preditiva para vendas de sorvete, utilizando Machine Learning e ferramentas como MLflow e cloud computing. Este projeto ampliará seu portfólio e habilidades em ciência de dados. Em caso de dúvidas durante a execução, estou aqui para auxiliar.
