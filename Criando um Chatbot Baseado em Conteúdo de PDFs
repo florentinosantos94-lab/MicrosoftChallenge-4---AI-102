@@ -1,0 +1,19 @@
+# Desenvolvimento de Chat Interativo com Análise de Documentos em PDF
+
+## Objetivo do Projeto
+Desenvolver um chat interativo que responda com base no conteúdo dos arquivos PDF, utilizando conceitos de IA generativa, embeddings e buscas vetorizadas. O sistema será capaz de entender, processar e responder perguntas a partir de documentos específicos, oferecendo um modelo personalizado de assistência virtual para informações proprietárias.
+
+## Passos Sugeridos
+1. **Carregamento de Arquivos PDF:**
+   - Implementar a funcionalidade de carregar arquivos PDF contendo informações relevantes para o estudo ou projeto.
+
+2. **Sistema de Busca Vetorial:**
+   - Utilizar técnicas de busca vetorial para indexar e recuperar informações dos PDFs de forma eficiente.
+
+3. **Inteligência Artificial para Respostas:**
+   - Utilizar IA para gerar respostas contextualizadas com base no conteúdo dos documentos carregados.
+
+4. **Desenvolvimento do Chat Interativo:**
+   - Criar um ambiente de chat interativo onde os usuários possam fazer perguntas e receber respostas embasadas nos arquivos PDF.
+
+Ao seguir esses passos, você estará desenvolvendo um sistema de busca inteligente com capacidade de interpretação de PDFs, organização de informações e geração de respostas relevantes. Este projeto auxiliará na correlação de ideias entre diversos textos, facilitando seu estudo e pesquisa para o Trabalho de Conclusão de Curso (TCC) em Engenharia de Software. Se precisar de mais orientações durante a implementação, estou à disposição para ajudar.
