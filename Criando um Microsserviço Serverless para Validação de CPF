@@ -1,0 +1,22 @@
+# Desenvolvimento de Microsserviço de Validação de CPF com Azure Functions
+
+## Descrição do Projeto
+O projeto visa desenvolver um microsserviço eficiente, escalável e econômico para validação de CPFs, utilizando arquitetura serverless com Azure Functions. A aplicação será construída seguindo princípios modernos de computação em nuvem, assegurando alta disponibilidade, baixo custo operacional e facilidade de manutenção.
+
+## Passos Sugeridos
+1. **Configuração do Ambiente Azure Functions:**
+   - Criar um ambiente no Azure Functions para hospedar o microsserviço de validação de CPF.
+
+2. **Implementação da Lógica de Validação de CPF:**
+   - Desenvolver a lógica de validação de CPF utilizando Azure Functions.
+
+3. **Teste e Validação do Serviço:**
+   - Realizar testes para garantir a correta validação dos CPFs pelo microsserviço.
+
+4. **Garantia de Alta Disponibilidade e Escalabilidade:**
+   - Configurar o serviço para garantir alta disponibilidade e escalabilidade automática conforme a demanda.
+
+5. **Monitoramento e Manutenção:**
+   - Implementar monitoramento para acompanhar o desempenho do microsserviço e facilitar a manutenção.
+
+Ao seguir esses passos, você estará desenvolvendo um microsserviço de validação de CPF eficiente e econômico, utilizando Azure Functions e arquitetura serverless. Este projeto permitirá aplicar conceitos modernos de computação em nuvem e fornecer um serviço de alta qualidade. Em caso de dúvidas durante a execução, estou aqui para auxiliar.
